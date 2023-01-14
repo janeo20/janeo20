@@ -4,7 +4,6 @@
 
 - 🔭 Desenvolvedor WEb
 - 🌱 Sempre aprendendo
-- 😄 Pronouns: Ele/Dele
 
 
 

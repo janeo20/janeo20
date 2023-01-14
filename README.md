@@ -33,4 +33,4 @@
   
 </div>
 
-![Snake animation](https://github.com/janeo20/janeo20/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/janeo20/janeo20/blob/output/github-contribution-grid-snake.svg)
